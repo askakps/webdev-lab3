@@ -1,0 +1,14 @@
+.product-image {
+  max-width: 400px;
+}
+.swiper-slide-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #fff;
+  height: 100%;
+  max-width: 600px;
+  margin: auto;
+  border-radius: 20px;
+}
