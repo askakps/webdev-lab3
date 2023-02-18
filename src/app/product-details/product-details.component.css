@@ -12,3 +12,6 @@
   margin: auto;
   border-radius: 20px;
 }
+.swiper-wrapper {
+  max-width: 976px;
+}
